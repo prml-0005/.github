@@ -1,6 +1,6 @@
 Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
-Summarising Text
+Automatic Text Summarisation
 
 **Project Label**: $prml_{5}$
 
